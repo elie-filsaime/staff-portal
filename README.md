@@ -38,13 +38,3 @@ These instructions will get you a copy of the project up and running on your loc
 4.  Activate the theme/plugin from the WordPress admin dashboard.
 5.  Install and activate the required plugins, starting with Ultimate Member.
 6.  Configure the Ultimate Member plugin according to the project's needs.
-
-## Deployment
-
-This section will describe the process for deploying the portal to the live server. 
-_(Details to be added)_
-
-## Contributing
-
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us. 
-_(We can create this file later)_
