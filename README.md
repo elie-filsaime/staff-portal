@@ -32,7 +32,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Installation
 
-1.  Clone the repository: `git clone https://github.com/vintageGent/akco-staff-portal.git`
+1.  Clone the repository: `git clone https://github.com/elie-filsaime/staff-portal.git`
 2.  Navigate to your WordPress installation's `wp-content/themes` or `wp-content/plugins` directory.
 3.  Copy the cloned repository files into the appropriate directory.
 4.  Activate the theme/plugin from the WordPress admin dashboard.
